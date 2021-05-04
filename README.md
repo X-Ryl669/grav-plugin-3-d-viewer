@@ -1,5 +1,8 @@
 # 3d Viewer Plugin
 
+# This repository is kept as a tutorial to implement a markdown's code block handler with Parsedown. It's not updated anymore
+Please refer to [the new repository instead](https://github.com/X-Ryl669/grav-plugin-viewer3d)
+
 Display an interactive 3D model in your Grav CMS blog page from where you can download, measure and observe your models. 
 
 It supports 3D model file in the following format:
